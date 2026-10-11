@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-fixture-tools",
+  "versions": [
+    {
+      "commit": "f7ac6315451d0c537454648e04a8dd13fabee989",
+      "parsed_at": "2026-10-11T02:54:49.721581+00:00",
+      "tag": "1.2.1",
+      "filetree": "filetree/f7ac6315451d0c537454648e04a8dd13fabee989.nq.gz",
+      "blobs": [
+        "blob/b5abb13c72b802113a82d280f8c1a73e012e7fd3.nq.gz",
+        "blob/043363fb946eca422bcc012f6d25a255b1b5d3a7.nq.gz",
+        "blob/7d1de486cfdd693d02320c5a40d9c9a022f0b6a1.nq.gz",
+        "blob/8ba6e0bd1628758db130339322b05be0a67306d2.nq.gz",
+        "blob/d91a1d8dc2771cd42ee4d2dba2584d3249ce4e98.nq.gz",
+        "blob/ca3943d8b35843c66f9beb779aa52b48c5f15101.nq.gz",
+        "blob/121f1b32ea9baae616fdd345a1adf87fddff2e26.nq.gz",
+        "blob/241086240fc7c92a08788d5ddaab43bf39604ce9.nq.gz",
+        "blob/34d12fa61d1465993cea5b6f53409e86d49b91b5.nq.gz",
+        "blob/6acc198115acd57b185d8f77153cf78c836fa409.nq.gz",
+        "blob/d36f0df5f15b11beee22b7477d553ea8a020c73a.nq.gz",
+        "blob/118a8c04da4d34e6ca196edcb502bd34fa48d454.nq.gz",
+        "blob/73fc2f34a73cba7d4d865bad39f4aeedfaa8d2c1.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/42c2780292b6ef968300c62e4876e7e39149e226.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
